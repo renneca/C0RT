@@ -1,2 +1,5 @@
 /outs
 /priv
+
+/compile_commands*
+/.cache
